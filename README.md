@@ -1,4 +1,6 @@
-Live Link = https://649453c267314a310683e361--iridescent-lollipop-4c77df.netlify.app/
+Live Link = https://jade-yeot-6addfe.netlify.app
+
+GitHub Link = https://github1s.com/LOVKUSH9888/React-Portfolio-Final/blob/HEAD/src/components/Home/About.jsx
 
 Tech Stack & Library Used : React-Js, Bootstrap, React-PDF, Router, Github & LeeCode Calander, React-icon-Typewriter effect etc.
 
